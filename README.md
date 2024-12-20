@@ -1,8 +1,7 @@
 ## Contributors
 
-This repository is made with :blue_heart: by [Chris Francis](https://github.com/frank-chris), [Amey Kulkarni](https://github.com/amey-kulkarni27) and [Me (Shivam Sahni)](https://github.com/shivam15s)
+This repository is made with :blue_heart: by [Me (Shivam Sahni)](https://github.com/shivam15s), [Chris Francis](https://github.com/frank-chris) and [Amey Kulkarni](https://github.com/amey-kulkarni27)
 
-&nbsp;
 
 # Server
 
